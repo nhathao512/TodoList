@@ -59,10 +59,3 @@ A simple Todo List application built with **React.js** and **Context API + useRe
 - [ ] Improve UI with better styling.
 
 ---
-
-### 🔗 Connect with Me
-💼 [LinkedIn](https://linkedin.com/in/your-profile) | 🐦 [Twitter](https://twitter.com/your-handle) | 🌎 [Portfolio](https://yourwebsite.com)
-
----
-
-📌 *Feel free to contribute! Open a PR if you have any improvements.* 🚀
