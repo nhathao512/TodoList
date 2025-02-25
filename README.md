@@ -42,7 +42,7 @@ A simple Todo List application built with **React.js** and **Context API + useRe
    ```sh
    npm run dev
    ```
-   The app will start at **http://localhost:3000/**.
+   The app will start at **http://localhost:5174/**.
 
 ## 🎯 Usage
 1. **Enter a todo** in the input field.
