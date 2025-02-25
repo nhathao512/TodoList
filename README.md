@@ -19,8 +19,10 @@ A simple Todo List application built with **React.js** and **Context API + useRe
  │   ├── context.js          # Creates TodoContext
  │   ├── reducer.js          # Defines reducer functions
  │   ├── constants.js        # Initial state
+ │   ├── Provider.jsx        # Provider 
+
  ├── components/
- │   ├── TodoList.js         # Main component for managing todos
+ │   ├── TodoList.jsx         # Main component for managing todos
  ├── App.js                  # Root component
  ├── index.js                # Entry point
 ```
