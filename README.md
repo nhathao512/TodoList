@@ -53,7 +53,7 @@ A simple Todo List application built with **React.js** and **Context API + useRe
 
 
 ## 🎨 Screenshots
-![Todo List Preview](https://via.placeholder.com/600x300)  
+![Todo List Preview](https://github.com/nhathao512/TodoList/blob/72cba8dea183264a0b4c5b098419460b9fe98b7f/todolist-reactjs/Screenshots.png)  
 
 ## 📌 Future Improvements
 - [ ] Add local storage support.
