@@ -51,9 +51,9 @@ A simple Todo List application built with **React.js** and **Context API + useRe
 2. **Press Enter** or click the **Add** button to save the task.
 3. **Click ❌** to remove a task from the list.
 
+
 ## 🎨 Screenshots
 ![Todo List Preview](https://via.placeholder.com/600x300)  
-*(Replace with an actual screenshot of your app.)*
 
 ## 📌 Future Improvements
 - [ ] Add local storage support.
