@@ -1,16 +1,25 @@
 # 📝 Todo List App
 
-A simple Todo List application built with **React.js** and **Context API + useReducer** for state management.
+A beautiful dark-mode todo list application built with React and Tailwind CSS, featuring state management with Context API and useReducer.
 
-## 🚀 Features
-- Add new todos by clicking the **Add** button or pressing **Enter**.
-- Remove a todo by clicking the **❌ (delete)** button.
-- Uses `useReducer` and `useContext` for global state management.
+## ✨ Features
 
-## 🛠️ Technologies Used
-- **React.js** ⚛️
-- **useContext & useReducer** (for state management)
-- **CSS (optional, for styling)**
+- ✅ Add new todos with Enter key or button
+- 🟢 Green highlight for completed tasks
+- 🔴 Red highlight for pending deletion
+- ✏️ Double-click to edit tasks
+- 💾 Automatic local storage saving
+- 🌓 Dark mode interface
+
+## 🛠 Tech Stack
+
+| Technology       | Purpose                   |
+|------------------|---------------------------|
+| React 18         | Frontend framework        |
+| Vite             | Build tool                |
+| Tailwind CSS     | Styling                   |
+| Context API      | State management          |
+| useReducer       | State logic               |
 
 ## 📂 Project Structure
 ```
@@ -47,17 +56,17 @@ A simple Todo List application built with **React.js** and **Context API + useRe
    The app will start at **http://localhost:5174/**.
 
 ## 🎯 Usage
-1. **Enter a todo** in the input field.
-2. **Press Enter** or click the **Add** button to save the task.
-3. **Click ❌** to remove a task from the list.
+1. **Add Task** Type in the input field and press Enter or click "Add".
+2. **Complete Task** Click the checkbox to mark as complete (turns green).
+3. **Delete Task**
+  - First click: Marks for deletion (turns red)
+  - Second click: Confirms removal
+
+4. **Edit Task** Double-click on any task to edit.
+
 
 
 ## 🎨 Screenshots
 ![Todo List Preview](https://github.com/nhathao512/TodoList/blob/72cba8dea183264a0b4c5b098419460b9fe98b7f/todolist-reactjs/Screenshots.png)  
 
-## 📌 Future Improvements
-- [ ] Add local storage support.
-- [ ] Implement edit functionality.
-- [ ] Improve UI with better styling.
-
----
+### Thanks for visting our project ❤️! 
