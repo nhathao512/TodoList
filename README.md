@@ -1,17 +1,17 @@
-# 📝 Todo List App
+# Todo List App
 
 A beautiful dark-mode todo list application built with React and Tailwind CSS, featuring state management with Context API and useReducer.
 
-## ✨ Features
+## Features
 
-- ✅ Add new todos with Enter key or button
-- 🟢 Green highlight for completed tasks
-- 🔴 Red highlight for pending deletion
-- ✏️ Double-click to edit tasks
-- 💾 Automatic local storage saving
-- 🌓 Dark mode interface
+- Add new todos with Enter key or button
+- Green highlight for completed tasks
+- Red highlight for pending deletion
+- Double-click to edit tasks
+- Automatic local storage saving
+- Dark mode interface
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Technology       | Purpose                   |
 |------------------|---------------------------|
@@ -21,7 +21,7 @@ A beautiful dark-mode todo list application built with React and Tailwind CSS, f
 | Context API      | State management          |
 | useReducer       | State logic               |
 
-## 📂 Project Structure
+## Project Structure
 ```
 /src
  ├── store/
@@ -36,7 +36,7 @@ A beautiful dark-mode todo list application built with React and Tailwind CSS, f
  ├── index.js                # Entry point
 ```
 
-## 🏗️ Setup & Installation
+## Setup & Installation
 
 1. **Clone the repository:**
    ```sh
@@ -55,7 +55,7 @@ A beautiful dark-mode todo list application built with React and Tailwind CSS, f
    ```
    The app will start at **http://localhost:5174/**.
 
-## 🎯 Usage
+## Usage
 1. **Add Task** Type in the input field and press Enter or click "Add".
 2. **Complete Task** Click the checkbox to mark as complete (turns green).
 3. **Delete Task**
@@ -66,7 +66,7 @@ A beautiful dark-mode todo list application built with React and Tailwind CSS, f
 
 
 
-## 🎨 Screenshots
+## Screenshots
 ![Todo List Preview](https://github.com/nhathao512/TodoList/blob/72cba8dea183264a0b4c5b098419460b9fe98b7f/todolist-reactjs/Screenshots.png)  
 
 ### Thanks for visting our project ❤️! 
